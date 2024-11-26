@@ -16,7 +16,7 @@ A lightweight Android calculator app built with Java, supporting basic arithmeti
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/your-username/calculator-app.git
+    git clone https://github.com/Mormoshe7/calculator-app.git
     ```
 
 2. Open the project in Android Studio.
